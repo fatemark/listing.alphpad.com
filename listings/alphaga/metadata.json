@@ -54,11 +54,11 @@
         },
         {
             "title": "Token",
-            "fileUrl": "token.png"
+            "fileUrl": "token.md"
         },
         {
             "title": "Roadmap",
-            "fileUrl": "roadmap.png"
+            "fileUrl": "roadmap.md"
         },
         {
             "title": "Team",
@@ -66,8 +66,8 @@
         }
     ],
     "whitelist": {
-        "startDate": "2024-06-18T8:00:00.000Z",
-        "endDate": "2024-06-21T20:00:00.000Z",
+        "startDate": "2024-06-10T8:00:00.000Z",
+        "endDate": "2024-06-16T20:00:00.000Z",
         "inputs": [
             {
                 "id": "discord",

@@ -1,0 +1,95 @@
+{
+    "contractId": "6896d6c40b6de413a5c5a7786b27d25f97cbcaa2a8b5cfe2a027ef4ba38f9800",
+    "owner": "1KYJQcUxU6rA8cpW9kghPnAMubHDuV4o76tURFQX56kS",
+    "name": "ALPHAGA",
+    "token": "ALPHAGA",
+    "logo": "logo.png",
+    "banner": "banner.png",
+    "shortDesc": "Alphaga is a decentralized NFT marketplace on #Alephium blockchain $ALPH 🚀",
+    "saleType": "flatprice-whitelist-v2",
+    "twitter": "https://twitter.com/AlphagaMarket",
+    "telegram": "https://t.me/ALPHAGAAnnoncement",
+    "discord": "https://discord.gg/ctkjBKrbvp",
+    "whitepaper": "https://docs.alphaga.app/",
+    "docs": "https://docs.alphaga.app/",
+    "website": "https://alphaga.app/",
+    "restrictedCountries": [
+        "AUS",
+        "CAN",
+        "CUB",
+        "RUS",
+        "IRN",
+        "JPN",
+        "NZL",
+        "NLD",
+        "PRK",
+        "SYR",
+        "USA",
+        "IRQ",
+        "MMR",
+        "ZWE",
+        "SDN",
+        "COD",
+        "BLR",
+        "LBN",
+        "SOM",
+        "GIN",
+        "LBY",
+        "GNB",
+        "CAF",
+        "UKR",
+        "YEM",
+        "BDI",
+        "SSD",
+        "MLI",
+        "VEN",
+        "NIC",
+        "HTI",
+        "MDA"
+    ],
+    "details": [
+        {
+            "title": "About",
+            "fileUrl": "about.md"
+        },
+        {
+            "title": "Token",
+            "fileUrl": "token.png"
+        },
+        {
+            "title": "Roadmap",
+            "fileUrl": "roadmap.png"
+        },
+        {
+            "title": "Team",
+            "fileUrl": "team.md"
+        }
+    ],
+    "whitelist": {
+        "startDate": "2024-06-18T8:00:00.000Z",
+        "endDate": "2024-06-21T20:00:00.000Z",
+        "inputs": [
+            {
+                "id": "discord",
+                "label": "Discord ID",
+                "required": false
+            },
+            {
+                "id": "telegram",
+                "label": "Telegram ID",
+                "required": false
+            },
+            {
+                "id": "twitter",
+                "label": "Twitter ID",
+                "required": false
+            },
+            {
+                "id": "testnet",
+                "label": "Testnet Address",
+                "required": false
+            }
+        ],
+        "note": "Social IDs and testnet addresses are not mandatory, but including them can boost your odds of securing a whitelist spot!"
+    }
+}

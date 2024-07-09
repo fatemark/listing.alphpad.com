@@ -4,7 +4,7 @@ ANS introduces a pivotal solution designed to enhance accessibility within the A
 
 ---
 ## Community
-ANS has been built by and for the community. Join the ANS Army today and embark on the journey of fostering collaboration and making the Alephium system more cohesive.  
+ANS has been built by and for the community. Join the ANS Army today and embark on the journey of fostering collaboration for making a more cohesive Alephium ecosystem. 
 
 Official Website: https://alephium.domains
 Twitter: https://x.com/AlphNameService

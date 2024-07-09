@@ -6,7 +6,7 @@
     "logo": "ans-logo.png",
     "banner": "ans-banner.png",
     "shortDesc": "Alephium Name Service - Providing names and profiles to the Alephium ecosystem!",
-    "saleType": "flatprice-whitelist",
+    "saleType": "flatprice-whitelist-v2",
     "twitter": "https://x.com/AlphNameService",
     "telegram": "https://t.me/AlephiumNameService",
     "discord": "https://discord.com/invite/KWshE9Efw7",

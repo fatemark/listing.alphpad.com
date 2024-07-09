@@ -1,0 +1,96 @@
+{
+    "contractId": "e6ca7902a66e7e3c3889aa74558d4272edce1bacb19b0f41db9bac3848cd6400",
+    "owner": "1FBxoxC1EL9oRJDr8XhBVkz51EuQjcwiQL4x7HEtrQeAP",
+    "name": "ANS",
+    "token": "ANS",
+    "logo": "ans-logo.png",
+    "banner": "ans-banner.png",
+    "shortDesc": "Alephium Name Service - Providing names and profiles to the Alephium ecosystem!",
+    "saleType": "flatprice-whitelist",
+    "twitter": "https://x.com/AlphNameService",
+    "telegram": "https://t.me/AlephiumNameService",
+    "discord": "https://discord.com/invite/KWshE9Efw7",
+    "medium": "https://medium.com/@alphdomains",
+    "docs": "https://alephium-name-service.gitbook.io/ans",
+    "website": "https://alephium.domains",
+    "restrictedCountries": [
+        "AUS",
+        "CAN",
+        "CUB",
+        "RUS",
+        "IRN",
+        "JPN",
+        "NZL",
+        "NLD",
+        "PRK",
+        "SYR",
+        "USA",
+        "IRQ",
+        "MMR",
+        "ZWE",
+        "SDN",
+        "COD",
+        "BLR",
+        "LBN",
+        "SOM",
+        "GIN",
+        "LBY",
+        "GNB",
+        "CAF",
+        "UKR",
+        "YEM",
+        "BDI",
+        "SSD",
+        "MLI",
+        "VEN",
+        "NIC",
+        "HTI",
+        "MDA"
+    ],
+    "details": [
+        {
+            "title": "About",
+            "fileUrl": "about.md"
+        },
+        { 
+            "title": "Token",
+            "fileUrl": "token.md"
+        },
+        {
+            "title": "Roadmap",
+            "fileUrl": "roadmap.md"
+        }
+    ],
+    "whitelist": {
+        "startDate": "2024-07-10T18:00:00.000Z",
+        "endDate": "2024-07-14T00:00:00.000Z",
+        "inputs": [
+            {
+                "id": "discord",
+                "label": "Discord ID",
+                "required": false
+            },
+            {
+                "id": "telegram",
+                "label": "Telegram ID",
+                "required": false
+            },
+            {
+                "id": "twitter",
+                "label": "Twitter ID",
+                "required": false
+            },
+            {
+                "id": "testnet",
+                "label": "Testnet Address",
+                "required": false
+            },
+            {
+                "id": "name",
+                "label": "Your favorite name",
+                "required": false
+            }
+        ],
+        "note": "Social IDs and testnet addresses are not mandatory, but including them can boost your odds of securing a whitelist spot! Your name should be related to your accounts to boost the odds of reserving it."
+    }
+}

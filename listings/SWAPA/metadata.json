@@ -1,0 +1,95 @@
+{
+    "contractId": "",
+    "owner": "126eNC4HsoH3od7Azb5tnbDp154TGwggJ4qar77rf1j8D",
+    "name": "SWAPA",
+    "token": "SWAPA",
+    "logo": "logo.png",
+    "banner": "banner.png",
+    "shortDesc": "SWAPA is the first veDEX on Alephium 🐦‍🔥",
+    "saleType": "flatprice-whitelist-v2",
+    "twitter": "https://twitter.com/alphswaps",
+    "telegram": "https://t.me/swapadex",
+    "discord": "https://discord.gg/XcxvPaxdCU",
+    "whitepaper": "https://docs.swapa.exchange/",
+    "docs": "https://docs.swapa.exchange/",
+    "website": "https://swapa.exchange/",
+    "restrictedCountries": [
+        "AUS",
+        "CAN",
+        "CUB",
+        "RUS",
+        "IRN",
+        "JPN",
+        "NZL",
+        "NLD",
+        "PRK",
+        "SYR",
+        "USA",
+        "IRQ",
+        "MMR",
+        "ZWE",
+        "SDN",
+        "COD",
+        "BLR",
+        "LBN",
+        "SOM",
+        "GIN",
+        "LBY",
+        "GNB",
+        "CAF",
+        "UKR",
+        "YEM",
+        "BDI",
+        "SSD",
+        "MLI",
+        "VEN",
+        "NIC",
+        "HTI",
+        "MDA"
+    ],
+    "details": [
+        {
+            "title": "About",
+            "fileUrl": "about.md"
+        },
+        {
+            "title": "Token",
+            "fileUrl": "token.md"
+        },
+        {
+            "title": "Roadmap",
+            "fileUrl": "roadmap.md"
+        },
+        {
+            "title": "Team",
+            "fileUrl": "team.md"
+        }
+    ],
+    "whitelist": {
+        "startDate": "TBA",
+        "endDate": "TBA",
+        "inputs": [
+            {
+                "id": "discord",
+                "label": "Discord ID",
+                "required": false
+            },
+            {
+                "id": "telegram",
+                "label": "Telegram ID",
+                "required": false
+            },
+            {
+                "id": "twitter",
+                "label": "Twitter ID",
+                "required": false
+            },
+            {
+                "id": "testnet",
+                "label": "Testnet Address",
+                "required": false
+            }
+        ],
+        "note": "Social IDs and testnet addresses are not mandatory, but including them can boost your odds of securing a whitelist spot!"
+    }
+}

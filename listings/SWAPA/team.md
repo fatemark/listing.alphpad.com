@@ -2,7 +2,12 @@
 
 ---
 ## esse
-Core dev who wrote the contracts, backend, and most of the frontend. Also building goldcastle.club on Alephium
+Core dev for the smart contracts and backend. Also building goldcastle.club on Alephium
+
+---
+
+## MiniJudie
+Frontend developer
 
 ---
 

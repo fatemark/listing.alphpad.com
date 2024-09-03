@@ -2,7 +2,7 @@
 
 ---
 ## esse
-Core dev for the smart contracts and backend. Also building goldcastle.club on Alephium
+Core dev. Also building goldcastle.club on Alephium. Wrote the smart contracts and backend.
 
 ---
 

@@ -6,7 +6,7 @@
     "logo": "logo.png",
     "banner": "banner.png",
     "shortDesc": "SWAPA is the first veDEX on Alephium 🐦‍🔥",
-    "saleType": "flatprice-whitelist-v2",
+    "saleType": "tier-whitelist-v3",
     "twitter": "https://twitter.com/alphswaps",
     "telegram": "https://t.me/swapadex",
     "discord": "https://discord.gg/XcxvPaxdCU",
